@@ -145,7 +145,7 @@
     <div class="pull-right hidden-xs">
       <b>Version</b> 1.0.0
     </div>
-    <strong>Copyright &copy; 2019-2024 <a href="https://adminlte.io">Dito</a>.</strong> All rights
+    <strong>Copyright &copy; 2019-2024 <a href="https://adminlte.io">Andrayuga</a>.</strong> All rights
     reserved.
   </footer>
   <!-- Control Sidebar -->
